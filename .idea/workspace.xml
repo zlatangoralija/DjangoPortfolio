@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3e86615e-9202-4890-9c6e-bb6819822254" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586004357331</updated>
-      <workItem from="1586004359646" duration="2733000" />
+      <workItem from="1586004359646" duration="2961000" />
+      <workItem from="1586270409299" duration="2968000" />
     </task>
     <servers />
   </component>
@@ -73,5 +74,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2583" y="332" width="594" height="393" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586006675631" />
+    <state x="2546" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1586270414218">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2546" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586270414218" />
   </component>
 </project>
